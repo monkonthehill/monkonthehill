@@ -162,6 +162,6 @@
   </path>
 </svg>
 
-<img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Shailendra%20Mourya-Keep%20Building,%20Keep%20Learning!-3CB371?style=for-the-badge" alt="Signature Badge"/>
+
 
 </div>
