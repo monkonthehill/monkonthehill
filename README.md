@@ -128,7 +128,7 @@
   <a href="https://github.com/monkonthehill">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf" />
   </a>
-  <a href="https://www.instagram.com/monk_from_hills/">
+  <a href="https://www.instagram.com/monk_from_the_hills/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" />
   </a>
 </div>
