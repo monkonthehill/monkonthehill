@@ -1,167 +1,38 @@
-<div align="center">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nitish kumar
+=====================================================================================================================================
 
-<!-- Header Wave Animation -->
-<svg width="100%" height="100" viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg">
-  <path d="M0,60 Q300,10 600,60 T1200,60 V0 H0 V60 Z" fill="#9a6bdf">
-    <animate attributeName="d" dur="4s" repeatCount="indefinite"
-      values="M0,60 Q300,10 600,60 T1200,60 V0 H0 V60 Z;
-              M0,40 Q300,80 600,20 T1200,40 V0 H0 V40 Z;
-              M0,60 Q300,10 600,60 T1200,60 V0 H0 V60 Z" />
-  </path>
-</svg>
+c++ developer , web dev , network programming
+---------------------------------------------
 
-<!-- Animated SVG Header -->
-<img src="images/svg/header_en.svg" alt="Animated Header" width="600"/>
+Computer Science Engineering student focused on building strong fundamentals in \*\*C++, Data Structures & Algorithms, and system-level programming\*\*. I enjoy understanding how things work at a deeper level, from memory management and networking concepts to efficient algorithm design.
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=9A6BDF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;UI%2FUX+Designer;Open+Source+Contributor" alt="Typing Animation Header" width="600"/>
+I regularly build \*\*C++ mini projects\*\* to strengthen problem-solving skills and translate theory into practical code. Alongside this, I work on \*\*full-stack web applications\*\* using technologies like \*\*React\*\*.
 
-</div>
+Currently building \*\*Ankurit\*\*, a platform that connects \*\*farmers and nursery owners\*\* to list and discover agricultural products directly, aiming to simplify communication and product discovery in the agriculture ecosystem.
 
----
+I believe in learning by building, improving consistently, and focusing on strong fundamentals to become a capable software engineer.
 
-## 👨‍💻 About Me  
-
-<table>
-  <tr>
-    <td>
-      <em>
-      B.Tech CSE Student | Cybersecurity Enthusiast | UI/UX Designer  
-      I'm a Computer Science and Engineering student at CGC LANDRAN ,PUNJAB , passionate about cybersecurity, cloud-native technologies, and software development.  
-      Currently, I'm honing my skills in Java, C, C++, and Python, while also exploring AI/ML and cloud computing.
-      </em>
-    </td>
-    <td>
-      <img src="images/svg/profile.svg" alt="Profile SVG" width="auto"/>
-    </td>
-  </tr>
-</table>
-
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" /> 
-<img src="https://img.shields.io/badge/Focus-Software_Development-blue" alt="Focus" />
-
----
-
-## 👀 Interests  
-- Open-source contributions in web development and security  
-- UI/UX design with a focus on accessibility and modern interactions  
-- Cloud architectures and scalable platforms  
-- Writing and sharing insights through tech blogs  
-
----
-
-## 🛠️ Tech Stack  
-
-<div align="left">
-
-**Frontend**  
-<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4">
-<img src="https://img.shields.io/badge/-Material UI-05122A?style=for-the-badge&color=ff69b4">
-<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&color=ff69b4">
-<img src="https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&color=ff69b4">
-<img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4">
-<img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4">
-<img src="https://img.shields.io/badge/-Sass-05122A?style=for-the-badge&color=ff69b4">
-
-**Backend & Databases**  
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1">
-<img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&color=4169e1">
-<img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1">
-<img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&color=4169e1">
-
-**AI/ML Tools**  
-<img src="https://img.shields.io/badge/-Hugging Face-05122A?style=for-the-badge&color=00CED1">
-<img src="https://img.shields.io/badge/-OpenCV-05122A?style=for-the-badge&color=00CED1">
-
-**Mobile**  
-<img src="https://img.shields.io/badge/-Android-05122A?style=for-the-badge&color=3CB371">
-<img src="https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&color=3CB371">
-
-**Programming Languages**  
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500">
-<img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=FFA500">
-<img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500">
-<img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500">
-<img src="https://img.shields.io/badge/-C++-05122A?style=for-the-badge&color=FFA500">
-<img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&color=FFA500">
-
-</div>
-
----
-
-## 📊 GitHub Stats  
+* 🌍  I'm based in INDIA
+* ✉️  You can contact me at [ns708090100@gmail.com](mailto:ns708090100@gmail.com)
+* 🧠  I'm currently learning Web Dev , C++ and network developing
+* 👥  I'm looking to collaborate on Github and instagram @monk\_from\_the\_hills
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monkonthehill&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkonthehill&layout=compact&langs_count=10&theme=radical"/>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" alt="Lua" title="Lua" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" alt="Neovim" title="Neovim" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a>
 </p>
 
----
+### Socials
 
-## 🏆 Achievements  
+<p align="left"> <a href="https://www.github.com/monkonthehill" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/thelearnerloop" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a></p>
+<a href="https://www.x.com/thelearnerloop" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/thelearnerloop?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+### Badges
 
-**Trophies**  
-<img src="https://github-profile-trophy.vercel.app/?username=monkonthehill&theme=juicyfresh&column=7&margin-w=15&margin-h=15"/>  
+<b>My GitHub Stats</b>
 
-**Contribution Streak**  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=monkonthehill&theme=radical&hide_border=false" />  
+<a href="http://www.github.com/monkonthehill"><img src="https://github-readme-stats.vercel.app/api?username=monkonthehill&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="monkonthehill's GitHub stats" /></a>
 
-**Activity Graph**  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=monkonthehill&theme=radical" alt="GitHub Activity Graph"/>  
+<a href="http://www.github.com/monkonthehill"><img src="https://github-readme-streak-stats.herokuapp.com/?user=monkonthehill&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
----
-
-## 🎉 Fun Facts & Hobbies  
-
-- 🌏 Love traveling (still exploring states & countries)  
-- 🎸 Enjoy music in free time  
-- 📚 Avid reader of tech blogs, sci-fi, and self-development books  
-- 🍳 Experiment with cooking new recipes monthly  
-- 🧩 Puzzle solver (Sudoku & Rubik's Cube are favorites)  
-- 🎮 Enjoy playing chess  
-
----
-
-## 🌐 Connect With Me  
-
-<div align="left">
-  <a href="https://github.com/monkonthehill">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf" />
-  </a>
-  <a href="https://www.instagram.com/monk_from_the_hills/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" />
-  </a>
-</div>
-
-
----
-
-## 📫 Contact Me  
-
-<div align="center">
-  <b>Email:</b> ns708090100@gmail.com<br>
-  <b>Phone:</b> +91 6230519893
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=monkonthehill&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/monkonthehill?style=for-the-badge&color=ff69b4" alt="Followers"/>  
-
-🌈 *Let's connect and build amazing things together!* 🚀  
-
-<!-- Footer Wave -->
-<svg width="100%" height="100" viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg">
-  <path d="M0,30 Q300,80 600,30 T1200,30 V100 H0 V30 Z" fill="#9a6bdf">
-    <animate attributeName="d" dur="4s" repeatCount="indefinite"
-      values="M0,30 Q300,80 600,30 T1200,30 V100 H0 V30 Z;
-              M0,40 Q300,20 600,60 T1200,40 V100 H0 V40 Z;
-              M0,30 Q300,80 600,30 T1200,30 V100 H0 V30 Z" />
-  </path>
-</svg>
-
-
-
-</div>
+<a href="https://github.com/monkonthehill" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkonthehill&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
