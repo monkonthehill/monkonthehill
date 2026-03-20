@@ -8,8 +8,6 @@ Computer Science Engineering student focused on building strong fundamentals in 
 
 I regularly build \*\*C++ mini projects\*\* to strengthen problem-solving skills and translate theory into practical code. Alongside this, I work on \*\*full-stack web applications\*\* using technologies like \*\*React\*\*.
 
-Currently building \*\*Ankurit\*\*, a platform that connects \*\*farmers and nursery owners\*\* to list and discover agricultural products directly, aiming to simplify communication and product discovery in the agriculture ecosystem.
-
 I believe in learning by building, improving consistently, and focusing on strong fundamentals to become a capable software engineer.
 
 * 🌍  I'm based in INDIA
