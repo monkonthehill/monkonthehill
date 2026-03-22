@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nitish kumar
 =====================================================================================================================================
 
-c++ developer , web dev , network programming
+C++ developer , web dev , network programming
 ---------------------------------------------
 
 Computer Science Engineering student focused on building strong fundamentals in \*\*C++, Data Structures & Algorithms, and system-level programming\*\*. I enjoy understanding how things work at a deeper level, from memory management and networking concepts to efficient algorithm design.
