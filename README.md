@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 C++ developer , web dev , network programming
 ---------------------------------------------
 
-Computer Science Engineering student focused on building strong fundamentals in \*\*C++, Data Structures & Algorithms, and system-level programming\*\*. I enjoy understanding how things work at a deeper level, from memory management and networking concepts to efficient algorithm design.
+Computer Science Engineering student focused on building strong fundamentals in C++, Data Structures & Algorithms, and system-level programming. I enjoy understanding how things work at a deeper level, from memory management and networking concepts to efficient algorithm design.
 
-I regularly build \*\*C++ mini projects\*\* to strengthen problem-solving skills and translate theory into practical code. Alongside this, I work on \*\*full-stack web applications\*\* using technologies like \*\*React\*\*.
+I regularly build C++ mini projects\*\* to strengthen problem-solving skills and translate theory into practical code. Alongside this, I work on \*\*full-stack web applications using technologies like React.
 
 I believe in learning by building, improving consistently, and focusing on strong fundamentals to become a capable software engineer.
 
